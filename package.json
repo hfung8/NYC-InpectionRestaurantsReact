@@ -1,5 +1,5 @@
 {
-  "homepage": "http://hfung8.github.io/NYC-InspectionRestaurantsReact",
+  "homepage": "http://hfung8.github.io/NYC-InpectionRestaurantsReact",
   "name": "nyc-inspection",
   "version": "0.1.0",
   "private": true,
@@ -40,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
