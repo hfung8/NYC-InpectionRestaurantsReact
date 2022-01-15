@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/NYC-InpectionRestaurantsReact/static/css/main.58c26ec1.chunk.css",
-    "main.js": "/NYC-InpectionRestaurantsReact/static/js/main.7739b52c.chunk.js",
-    "main.js.map": "/NYC-InpectionRestaurantsReact/static/js/main.7739b52c.chunk.js.map",
-    "runtime-main.js": "/NYC-InpectionRestaurantsReact/static/js/runtime-main.d4351640.js",
-    "runtime-main.js.map": "/NYC-InpectionRestaurantsReact/static/js/runtime-main.d4351640.js.map",
-    "static/js/2.8b0730e7.chunk.js": "/NYC-InpectionRestaurantsReact/static/js/2.8b0730e7.chunk.js",
-    "static/js/2.8b0730e7.chunk.js.map": "/NYC-InpectionRestaurantsReact/static/js/2.8b0730e7.chunk.js.map",
-    "static/js/3.a7d4e6cb.chunk.js": "/NYC-InpectionRestaurantsReact/static/js/3.a7d4e6cb.chunk.js",
-    "static/js/3.a7d4e6cb.chunk.js.map": "/NYC-InpectionRestaurantsReact/static/js/3.a7d4e6cb.chunk.js.map",
-    "index.html": "/NYC-InpectionRestaurantsReact/index.html",
-    "static/css/main.58c26ec1.chunk.css.map": "/NYC-InpectionRestaurantsReact/static/css/main.58c26ec1.chunk.css.map",
-    "static/js/2.8b0730e7.chunk.js.LICENSE.txt": "/NYC-InpectionRestaurantsReact/static/js/2.8b0730e7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/NYC-InpectionRestaurantsReact/static/media/logo.6ce24c58.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.d4351640.js",
-    "static/js/2.8b0730e7.chunk.js",
-    "static/css/main.58c26ec1.chunk.css",
-    "static/js/main.7739b52c.chunk.js"
-  ]
+    "main.css": "/hfportfolio/static/css/main.e8051ee4.chunk.css",
+    "main.js": "/hfportfolio/static/js/main.573fa5dc.chunk.js",
+    "main.js.map": "/hfportfolio/static/js/main.573fa5dc.chunk.js.map",
+    "runtime-main.js": "/hfportfolio/static/js/runtime-main.d8f7cfb8.js",
+    "runtime-main.js.map": "/hfportfolio/static/js/runtime-main.d8f7cfb8.js.map",
+    "static/css/2.67731326.chunk.css": "/hfportfolio/static/css/2.67731326.chunk.css",
+    "static/js/2.6987c6a1.chunk.js": "/hfportfolio/static/js/2.6987c6a1.chunk.js",
+    "static/js/2.6987c6a1.chunk.js.map": "/hfportfolio/static/js/2.6987c6a1.chunk.js.map",
+    "index.html": "/hfportfolio/index.html",
+    "precache-manifest.fd9786739104d353de8709f3a4085c5a.js": "/hfportfolio/precache-manifest.fd9786739104d353de8709f3a4085c5a.js",
+    "service-worker.js": "/hfportfolio/service-worker.js",
+    "static/css/2.67731326.chunk.css.map": "/hfportfolio/static/css/2.67731326.chunk.css.map",
+    "static/css/main.e8051ee4.chunk.css.map": "/hfportfolio/static/css/main.e8051ee4.chunk.css.map",
+    "static/media/7seconds.png": "/hfportfolio/static/media/7seconds.c17186cc.png",
+    "static/media/Card_game.png": "/hfportfolio/static/media/Card_game.c938d0a3.png",
+    "static/media/OHU.png": "/hfportfolio/static/media/OHU.fdd703b3.png",
+    "static/media/harrycircle.png": "/hfportfolio/static/media/harrycircle.74aa02f2.png"
+  }
 }
